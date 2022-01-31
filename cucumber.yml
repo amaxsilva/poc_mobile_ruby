@@ -1,0 +1,5 @@
+#YML templates
+default: -p cucumber -p Pixel3a
+cucumber: --publish-quiet
+#Devices
+Pixel3a: DEVICE_TYPE=Pixel3a

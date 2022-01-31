@@ -1,0 +1,11 @@
+    source 'https://rubygems.org'
+
+gem 'appium_console'
+gem 'appium_lib'
+gem 'cucumber'
+gem 'ostruct'
+gem 'pry'
+gem 'rake'
+gem 'rspec'
+gem 'selenium-webdriver'
+gem 'touch_action'

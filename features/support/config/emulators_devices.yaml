@@ -1,0 +1,7 @@
+Pixel3a:
+  caps:
+    deviceName: "Pixel_3a_API_30"
+    platformName: "Android"
+    app: 'apk/app-debug.apk'
+    newCommandTimeout: "10000"
+    autoGrantPermissions: true
