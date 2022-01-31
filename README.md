@@ -1,8 +1,6 @@
 Consele do APPIUM
 
-'''Arc'''
-
-Configuração CAPS Appium Janela
+#Configuração CAPS Appium Janela
 
 {
 "deviceName": "Pixel_3a_API_30_x86",
@@ -14,13 +12,13 @@ Configuração CAPS Appium Janela
 
 #Instação das gem 
 
-bundle install
+```bundle install```
 
-Necessário desisntalar e configurar o eventmachine
+#Necessário desisntalar e configurar o eventmachine
 
-gem uninstall event machine 
+```gem uninstall event machin ```
 
-gem install eventchine --platform ruby
+```gem install eventchine --platform ruby```
 
 #Execução
 
